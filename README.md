@@ -25,4 +25,4 @@ python3 v0.py
 ```
 
 And you should see:
-![running screenshot](screenshot.png)
+![running screenshot](image.png)
