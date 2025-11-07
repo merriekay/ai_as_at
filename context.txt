@@ -1,0 +1,2 @@
+Agentic AI refers to systems that can pursue goals in collaboration with human users. 
+When applied as assistive technology, these systems can scaffold user agency by providing adaptive support rather than taking control.
