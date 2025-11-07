@@ -29,3 +29,12 @@ python3 v0.py
 
 And you should see:
 ![running screenshot](image.png)
+
+## Next Steps:
+
+- [ ] Add multiple files for context using the `embeddings` API: https://platform.openai.com/docs/guides/embeddings
+- [ ] Read calendar `.ics` files
+- [ ] Make it agentic?, use the Agents API: https://platform.openai.com/docs/guides/agents
+- [ ] Prioritize context and tasks based on deadlines
+- [ ] Decide what the interface should look like?
+- [ ] Switch the AI provider... enable Claude
